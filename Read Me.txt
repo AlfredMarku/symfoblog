@@ -1,0 +1,1 @@
+Based on my experience on Symfony 6 , I have build this webapp ( Micro Blog ) with Api features, System of like & dislike and more with PHP |Symfony 6, Tailwind CSS, Alpine JS & Bootstrap
